@@ -4,7 +4,7 @@
 ## 👥 Jamoa
 | Rol | Ism | GitHub |
 |---|---|---|
-| 🧑‍✈️ Kapitan | ... | @... |
+| 🧑‍✈️ Kapitan | Yunusov Ibrohim | @yunusovibrohimm-boop |
 | 🧠 Mantiqchi | ... | @... |
 | 🖥 Interfeyschi | ... | @... |
 
